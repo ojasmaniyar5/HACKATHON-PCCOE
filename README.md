@@ -6,7 +6,9 @@
 **Problem Statement :**
 *Developing a Conversational Recommender System for Stock Investments.*
 
-**For Presentation Visit :** *https://introduction-to-conversa-h44opbd.gamma.site/*
+**For PPT Presentation Visit :** *https://introduction-to-conversa-h44opbd.gamma.site/*
+
+**View Certification :** *https://www.linkedin.com/posts/ojasmaniyar25_participation-certificate-alphabyte-10-activity-7178688363242086400-JhX_?utm_source=share&utm_medium=member_desktop*
 
 **Programming Languages Used :**
    - **Fronted End :** HTML, CSS and JavaScript.
