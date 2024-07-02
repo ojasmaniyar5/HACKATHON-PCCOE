@@ -14,7 +14,7 @@
    - **Fronted End :** HTML, CSS and JavaScript.
    - **Backed End :** PHP and Python.
    - **Database :** MySQL and phpMyAdmin.
-   - **API keys :** Taking Reference By Online free API keys.
+   - **API keys :** Taken Reference By Online free API keys.
 
 **Description :**
 
